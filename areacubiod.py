@@ -1,0 +1,5 @@
+l=int(input("length :"))
+b=int(input("breadth :"))
+h=int(input("height :"))
+c=2*(l*b+b*h+h*1)
+print("area of cuboid :",c)
